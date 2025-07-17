@@ -10,6 +10,28 @@ Task 1: Create a Realistic Phishing Email
 - Incorporated urgency and internal compliance context to increase believability.  
 - Included a masked hyperlink to encourage clicks.
 
+This is the one that I drafted:
+From:supportlT@mastercard.co
+To: employee@email.com 
+Subject: Action required! Master card security verification. Password validation required.
+
+Hello <First name>,
+
+As a part of Master card's quarterly security compliance check, all employees are required to verify their office email and password to ensure the passwords meet the security policies of the company.
+
+This is a security audit being conducted by the it team across all departments
+
+To avoid any disruption to your access please complete the verification process by 6:00 pm IST today by visiting:
+https://en.wikipedia.org/wiki/Phishing
+
+if you have already completed your verification, then please ignore this mail.
+
+Thank You.
+ 
+Regards,Mastercard IT 
+
+
+
 Task 2: Analyze Simulation Results and Deliver Training  
 - Reviewed open rate, click-through rate, and phishing success rate by department.  
 - Identified Human Resources (75 percent success rate) and Marketing (38 percent success rate) as high-risk teams.  
